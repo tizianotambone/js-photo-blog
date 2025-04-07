@@ -1,0 +1,51 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+.wall{
+    background-image: url("../img/wall.png");
+    height: 100px;
+}
+.font{
+    font-size: 60px;
+    font-family: 'Edu TAS Beginner', sans-serif;
+}
+.cork{
+    background-image: url("../img/cork.png");
+}
+.forest{ 
+    margin: 20px auto;
+    width: 80%;
+    
+}
+
+
+.card{
+    width: 310px;
+    margin-top: 50px;
+    margin-left: 20px;
+    position: relative;
+}
+.size{
+    font-size: 10px;
+   margin: 10px 30px;
+   font-family: "Sometype Mono", monospace;
+}
+.size2{
+    font-size: 20px;
+    margin: 10px 30px;
+    font-family: 'Edu TAS Beginner', sans-serif;
+}
+.point{
+    width: 20px;
+    position: absolute;
+    
+    left: 50%;
+}
+
+    
+
