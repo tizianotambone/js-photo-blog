@@ -43,8 +43,8 @@
 .point{
     width: 20px;
     position: absolute;
-    
     left: 50%;
+    transform: translateX(-50%);
 }
 
 .overlay{
@@ -74,7 +74,7 @@
 }
 .immagine{
     
-    width: 50%;
+    width: 40%;
     object-fit: contain;
     margin-bottom: 20px;
     
